@@ -5,4 +5,6 @@ There is a `GlobalStyle` defined and used in `index.js` which you can use to app
 
 Also there is a `Colors.js` file which you could use to define global colors and use them across the project
 
+1.`npm run install` 2.`npm start`
+
 > ##### Make sure to edit `package.json` in order to change the name or version
