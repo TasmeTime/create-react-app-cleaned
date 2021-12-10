@@ -3,9 +3,13 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { createGlobalStyle } from "styled-components";
+import Colors from "./assets/Colors";
 
 const GlobalStyle = createGlobalStyle`
-  
+  body{
+    background-color:${Colors.Secondary}
+  }
+
 *{
   padding: 0;
    margin: 0;
