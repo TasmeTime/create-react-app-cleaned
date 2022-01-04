@@ -3,7 +3,7 @@
 This is the npx-create-app output with some files removed and styled-component included.
 There is a `GlobalStyle` defined and used in `index.js` which you can use to apply your global styles using styled-components.
 
-Also there is a `Colors.js` file which you could use to define global colors and use them across the project
+Also there is a `Theme.js` file which you could use to define colors, breakpoints and use them across the project
 
 1.`npm install`
 
