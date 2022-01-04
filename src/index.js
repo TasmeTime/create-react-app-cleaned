@@ -21,7 +21,7 @@ a{
   text-decoration: none;
 }
 
-a:visisted{
+a:visited{
   color: #070710;
 }
    
