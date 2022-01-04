@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Colors from "./assets/Colors";
+import Colors from "./assets/Theme";
 
 const AppEl = styled.div`
   display: flex;
