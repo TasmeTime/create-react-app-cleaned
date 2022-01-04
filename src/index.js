@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { createGlobalStyle } from "styled-components";
-import Colors from "./assets/Colors";
+import { Colors } from "./assets/Theme";
 
 const GlobalStyle = createGlobalStyle`
   body{
